@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Bundles</string>
+    <string name="quicktrade">QuickTrade</string>
+    <string name="nombre_de_usuario">Nombre de Usuario</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="registrar">Registrar</string>
+    <string name="enviar">Enviar</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="e_mail">E-Mail</string>
+    <string name="user_id">User ID</string>
+    <string name="sexo">Sexo:</string>
+    <string name="contase_a">Contaseña</string>
+    <string name="telefono">Telefono</string>
+    <string name="hombre">Hombre</string>
+    <string name="mujer">Mujer</string>
+</resources>
